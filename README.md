@@ -1,7 +1,7 @@
 # ¡Hola! 👋
 ## Acerca de mí
 
-Soy un entusiasta de la tecnología y actualmente estoy aprendiendo Python. Me apasiona aplicar mis conocimientos en flujos metodológicos para proyectos digitales. Un ejemplo de esto es mi trabajo en el proyecto de la Historia del Internet en Colombia.
+Soy un historiador y humanista digital, actualmente aprendiendo Python y Godot. Me apasiona aplicar mis conocimientos en flujos metodológicos para proyectos de humanidades digitales. Un ejemplo de esto es mi trabajo en el proyecto de la Historia del Internet en Colombia.
 ## Intereses
   - Desarrollo de videojuegos: Estoy explorando motores de juego como Godot y Unity para crear experiencias interactivas y no lineales.
   - Idle games: Me fascinan los juegos idle y estoy investigando sus mecánicas y su relación con el Antropoceno.
